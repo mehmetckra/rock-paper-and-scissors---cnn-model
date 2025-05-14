@@ -1,6 +1,8 @@
 # Taş-Kağıt-Makas Sınıflandırma Projesi
 
 Bu proje, derin öğrenme kullanarak taş-kağıt-makas el hareketlerinin sınıflandırılmasını gerçekleştiren bir uygulamadır. Proje, eğitim ve test süreçlerini içeren bir Python uygulaması ve kullanıcı arayüzü olarak Gradio web arayüzünü içermektedir.
+![image](https://github.com/user-attachments/assets/ae28ff17-d99f-47f8-90a4-36b879a432e5)
+
 
 ## Proje İçeriği
 
